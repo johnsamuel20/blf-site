@@ -1,6 +1,4 @@
 import React, { useState } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
-import { FiX, FiExternalLink } from 'react-icons/fi';
 import HeaderSection from "./page/header" 
 import Section1 from "./page/section1" 
 import Section2 from "./page/section2" 
